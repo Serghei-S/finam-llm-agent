@@ -1,0 +1,7 @@
+services:
+  finam-agent:
+    build: .
+    container_name: finam_trader_agent
+    # Пробрасываем переменные из .env файла в контейнер
+    env_file:
+      - .env

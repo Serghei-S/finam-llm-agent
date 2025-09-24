@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs & OS files
+.idea/
+.vscode/
+*.DS_Store
+
+# Секреты! НИКОГДА не добавлять в Git.
+.env

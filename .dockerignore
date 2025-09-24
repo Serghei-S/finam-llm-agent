@@ -1,0 +1,19 @@
+# Git
+.git/
+.gitignore
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# Docker config files
+Dockerfile
+docker-compose.yml
+
+# Секреты
+.env
