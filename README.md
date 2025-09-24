@@ -22,4 +22,4 @@
 **1. Клонируйте репозиторий:**
 Откройте терминал и выполните команду:
 ```bash
-git clone https://github.com/ВАШ_ЛОГИН/НАЗВАНИЕ_РЕПОЗИТОРИЯ.git
+git clone https://github.com/Serghei-S/finam-llm-agent
